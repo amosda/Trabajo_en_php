@@ -30,18 +30,22 @@
         .serch h2{
         }
         .serch:hover{
-            box-shadow: 5px 5px  2px  0 #00000080;
+            border-color: #fff8;
+            box-shadow: 10px 10px  5px  0 #00000080;
             transition:.1s;
+           
         }
         
         .war{
             height: 100vh;
+            width: auto;
             background-attachment: fixed;
             background-clip: content-box;
         }
         .guerra{
             text-align: center;
             color: #fff;
+            margin-bottom: 50px;
         }
         .guerra h2 {
             color: #fff;
@@ -53,6 +57,20 @@
         }
         .guerra a:visited{
             color: red;
+        }
+        .absolute{
+            color: #fff;
+            position: sticky;
+            top: 10px;
+            border: 5px solid #030303;
+            width: 500px ;
+
+        
+        }
+        .sticky{
+            position : sticky;
+            top: 10px;
+
         }
     </style>
 </head>
@@ -68,7 +86,19 @@
               <p> Es una gran guerra que se llevo a cabo en la galaxia, si quieres <br>
             tener mas info <a href="https://es.wikipedia.org/wiki/Star_Wars">click aqui</a></p>
             </section>
-
+            <section >
+                <img class="war" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3qdVD3WIK8f5ypRvy_-tKwhpL7cbjWPrExA&usqp=CAU" alt="es una pelicula de accion">
+                <p class="guerra"> Esta es se trata de una pélicula del rescate de un soldado <br>
+                    si quieres saber mas <a href="https://es.wikipedia.org/wiki/Saving_Private_Ryan">Click aqui</a></p>
+            </section>
+            <div class ="absolute">
+                <section class = "sticky">
+                <p>Esto es se trata de una RESEÑA HISTORICA <br>
+                delas peliculas de disatintas guerras,
+                no pude hacer mas porque mi profesor, <br>
+                me dijo para hacer 3 paginas mas</p>
+            </section>
+    </div>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 </body>
