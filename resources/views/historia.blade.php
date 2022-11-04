@@ -19,6 +19,7 @@
             font-weight:bolder;
             text-align:center;
             font-size: 3rem;
+            text-shadow: 1px 1px 0 gold;
         }
         .serch{
             border: 3px solid #000;
@@ -91,13 +92,11 @@
                 <p class="guerra"> Esta es se trata de una pélicula del rescate de un soldado <br>
                     si quieres saber mas <a href="https://es.wikipedia.org/wiki/Saving_Private_Ryan">Click aqui</a></p>
             </section>
-            <div class ="absolute">
-                <section class = "sticky">
+            <div class ="absolute sticky">
                 <p>Esto es se trata de una RESEÑA HISTORICA <br>
                 delas peliculas de disatintas guerras,
                 no pude hacer mas porque mi profesor, <br>
                 me dijo para hacer 3 paginas mas</p>
-            </section>
     </div>
     </div>
     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
